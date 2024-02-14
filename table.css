@@ -1,12 +1,15 @@
 body{
-    background-color:azure;
+    background-color: azure;
+}
+ol{
+    color: rgb(73, 53, 197);
 }
 table{
-    background-color:grey;
+    background-color:azure;
 }
 th{
-    color: blue;
+    color:blue;
 }
 td{
-    color: gold;
+    color:orangered;
 }
